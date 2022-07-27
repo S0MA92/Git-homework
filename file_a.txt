@@ -1,0 +1,2 @@
+A Git egy ny¡lt forr sk¢d£, elosztott verzi¢kezel‹ szoftver, vagy m sk‚ppen egy szoftverforr sk¢d-kezel‹ rendszer, amely a sebess‚gre helyezi a hangs£lyt. A verzi¢kezel‹ rendszer (version control system, VCS), m s n‚ven rev¡zi¢kezel‹ vagy forr skezel‹ rendszer, olyan szoftveres seg‚dprogram, amely nyomon k”veti ‚s kezeli a f jlrendszerben v‚gzett m¢dos¡t sokat.
+
